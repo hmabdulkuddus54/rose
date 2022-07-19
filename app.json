@@ -1,7 +1,7 @@
 {
   "name": "Kochubot",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
-  "logo": "https://telegra.ph/file/1925c7a2f601539ccde7a.png",
+  "logo": "https://telegra.ph/file/6b4aebb85afabd3a1a34d.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -20,14 +20,15 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string."
+      "value": "5472019140:AAE9EGqnTVH0IZ3ShxbPYLFIYxt9bGLPWJs"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "20516707"
+      "value": "5519321748"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "SonOfLars"
+      "value": "akash_bd1"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -42,11 +43,11 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 18673980 83489514"
+      "value": "5519321748"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "254318997 18673980 83489514"
+      "value": "5519321748"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
@@ -54,7 +55,7 @@
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/PaulSonOfLars"
+      "value": "akash_bd1"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
